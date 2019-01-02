@@ -18,8 +18,8 @@ MDNSResponder mdns;
  
 ESP8266WebServer server(80);
 String webPage;
-const char* ssid     = "NetMASTER Uydunet-40B0";      //wifi name
-const char* password = "f347fc7d";  //wifi password
+const char* ssid     = "-------";      //your wifi name
+const char* password = "*******";  //your wifi password
  
 void setup() {
 
